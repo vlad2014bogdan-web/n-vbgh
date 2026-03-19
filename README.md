@@ -1,7 +1,7 @@
 
 
 # 🎮 Tic-Tac-Toe (Desas)
-
+![island](https://github.com/Lvumba1234/Documentation_prog_lev/blob/main/island.jpg)
 Interaktīva un moderna "Desu" spēle, kas izstrādāta, izmantojot tīru JavaScript, HTML un CSS. Spēle ir pilnībā funkcionējoša ar uzvaras loģiku, neizšķirta noteikšanu un responsīvu dizainu.
 
 ## ✨ Galvenās iespējas
